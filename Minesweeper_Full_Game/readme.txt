@@ -1,0 +1,1 @@
+Download this folder that contains the .exe, boards folder, and the images folder and then run .exe
